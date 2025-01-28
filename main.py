@@ -4,5 +4,4 @@ with open(name_of_file, "w") as file:
     write_text = input("What text would you like to write?")
     file.write(write_text)
 
-for i in range(10):
-    print(i)
+print("end of code")
