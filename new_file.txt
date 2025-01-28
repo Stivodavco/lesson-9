@@ -1,2 +1,1 @@
-ahoj ako sa mas toto je moj novy file. milujem git, lebo pomaha
-mi nestratit ziadne zmeny ktore som urobil atd
+git je dost dobry.
